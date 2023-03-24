@@ -1,4 +1,4 @@
-# Python Algorithms
+# Python Algorithms from Yandex
 Algorithms tasks for python (not only)
 
 ## Task 1:
