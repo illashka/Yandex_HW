@@ -1,4 +1,4 @@
-# Yandex_HW
+# Python Algorithms
 Algorithms tasks for python (not only)
 
 ## Task 1:
